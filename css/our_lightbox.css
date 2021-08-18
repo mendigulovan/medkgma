@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+.col-md-4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+img:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+p {
+  font-weight: bold;
+  font-size: 120%;
+}

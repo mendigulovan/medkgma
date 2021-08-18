@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  font-size: 1.5em;
+  padding: 20px;
+  background-color:  #F5F5F5;
+  text-align: center;
+  color: #000000;
+}
+
+.col-fourth {
+  width: 20.5%;
+  background-color: #2a8bf1;
+}
+
+.col-fourth {
+  position: relative;
+  display: inline-block;
+  margin-right: 2%;
+  margin-bottom: 1%;
+  margin-top: 5%;
+}
+
+.end {
+  margin-right: 0 !important;
+}
